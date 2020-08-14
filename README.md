@@ -1,6 +1,6 @@
 # **Turkish Text Classification with BERT**
 
-The purpose of this notebook to make a text classifier for the Turkish language by using BERT.  
+The purpose of this notebook is to make a text classifier for the Turkish language by using BERT.  
   
 BERT is a transfer learning that is used in NLP. It is based on Transformer architecture. It consists of combining more than one encoder. It processes words from left to right and right to left simultaneously, so it is faster than Bi-LSTM's.
   
